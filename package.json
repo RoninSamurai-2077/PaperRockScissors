@@ -1,0 +1,19 @@
+{
+  "name": "paperrockscissors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[D\u001b[D\u001b[D\u001bpaperrockscissors)\u001b[D.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoninSamurai-2077/PaperRockScissors.git"
+  },
+  "author": "Gregory A. Dixon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoninSamurai-2077/PaperRockScissors/issues"
+  },
+  "homepage": "https://github.com/RoninSamurai-2077/PaperRockScissors#readme"
+}
