@@ -18,7 +18,7 @@ class PaperRockScissors{
             this.randomChoice()
                 switch (this.randomChoiceResponse) {
                     case "paper":return "lose";
-                    case "rock": return "tie"; 
+            ``          case "rock": return "tie"; 
                     case "scissors": return"win";
                             }
     }
