@@ -30,8 +30,8 @@ class PaperRockScissors{
                 case "scissors": return"tie";
             }
     }
-    randonChoice()
-this randonChoiceResponse this computerMoves [Math.floor(Math.random()*this.computerMoves.length)] console.log(this.rendomthoiceResponse)
+    randomChoice()
+this.randomChoiceResponse = this.computerMoves [Math.floor(Math.random()*this.computerMoves.length)] console.log(this.randomChoiceResponse)
 }
 // const game = () => {
 // 	let playerScore = 0;
